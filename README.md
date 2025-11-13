@@ -249,3 +249,7 @@ For questions or collaborations, please open an issue on GitHub.
 **Impact**: This classifier can help reduce recycling contamination, saving resources and reducing environmental pollution through automated waste sorting.
 
 Find the resources here: https://drive.google.com/drive/folders/14TOWegOtAg8Tfdjy9NRyVN0jLoLlrlA7?usp=sharing
+
+---
+
+**Note**: This project was developed as part of academic coursework. The techniques demonstrated are applicable to various NLP tasks requiring domain adaptation with limited computational resources.
